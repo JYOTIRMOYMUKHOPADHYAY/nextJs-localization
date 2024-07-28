@@ -4,6 +4,13 @@
         "subheader": "Questa è la sottointestazione.",
         "details": "Questi sono alcuni dettagli sulla Home page.",
         "navigation":"Vai alla pagina chi siamo."
+    },
+    "about-us" : {
+        "header":"Chi siamo",
+        "name": "Ciao, sono {name}",
+        "country": "Vengo da {country}",
+        "company": "Lavoro in {company}",
+        "go-back": "Torna indietro"
     }
 
 }

@@ -4,6 +4,13 @@
         "subheader": "This is sub header.",
         "details": "This is some details about Home page.",
         "navigation":"Go to about us page."
+    },
+    "about-us" : {
+        "header":"About us",
+        "name": "Hi, I am {name}",
+        "country": "I am from {country}",
+        "company": "I work in {company}",
+        "go-back": "Go back"
     }
 
 }

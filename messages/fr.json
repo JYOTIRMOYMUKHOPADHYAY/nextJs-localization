@@ -4,6 +4,13 @@
         "subheader": "Ceci est un sous-en-tête.",
         "details": "Voici quelques détails sur la page d'accueil.",
         "navigation":"Accédez à la page À propos de nous."
+    },
+    "about-us" : {
+        "header":"À propos de nous",
+        "name": "Bonjour, je suis {name}",
+        "country": "Je viens de {country}",
+        "company": "Je travaille chez {company}",
+        "go-back": "Retourner"
     }
 
 }
