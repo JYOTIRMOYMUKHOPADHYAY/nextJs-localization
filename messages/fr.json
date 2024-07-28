@@ -1,0 +1,9 @@
+{
+    "Home" : {
+        "header":"Ceci est la page d'accueil.",
+        "subheader": "Ceci est un sous-en-tête.",
+        "details": "Voici quelques détails sur la page d'accueil.",
+        "navigation":"Accédez à la page À propos de nous."
+    }
+
+}

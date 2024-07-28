@@ -1,0 +1,9 @@
+{
+    "Home" : {
+        "header":"This is the Home page.",
+        "subheader": "This is sub header.",
+        "details": "This is some details about Home page.",
+        "navigation":"Go to about us page."
+    }
+
+}
